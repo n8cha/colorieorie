@@ -9,6 +9,12 @@ html {
 body {
     background-color: #EAEAEA;
     color: #2E3038;
+    -ms-overflow-style: none;  /* Hide scrollbar: IE and Edge */
+    scrollbar-width: none;  /* Hide scrollbar: Firefox */
+}
+/* Hide scrollbar: Chroma, Safari, and Opera */
+body::-webkit-scrollbar {
+  display: none;
 }
 
 header, main {
