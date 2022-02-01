@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Colorieorie - Single column blog and portfolio Jekyll theme (modified by @n8cha)
+## ColorieRetro - Single column blog and portfolio Jekyll theme (modified by @n8cha)
 
 Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
 
