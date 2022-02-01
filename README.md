@@ -4,7 +4,7 @@ This is an adaptation of the original
 [Colorie theme](https://github.com/ronv/colorie), made to look slightly retro.
 Currently, it's also serving as the theme for my personal website and thus
 contains strictly personalized components. Will segment out personal components
-from retro ones in future version.
+from retro ones at first request.
 
 ### Main Changes
 - new favicon
