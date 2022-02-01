@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Colorie - Single column blog and portfolio Jekyll theme 
+## Colorieorie - Single column blog and portfolio Jekyll theme (modified by @n8cha)
 
 Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for your personal website, blog and portfolio.
 
