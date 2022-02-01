@@ -1,33 +1,33 @@
-site: Colorie
+site: Colorieorie
 url: 
-author: Colorie
+author: Colorieorie
 author:
-  name: Colorie
+  name: Colorieorie
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Colorieorie
+description: Colorieorie - Single column blog and portfolio Jekyll theme (modified by n8cha)
 logo: 
 image: 
-twitter: ronaldsvilcins  
-twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
-social:
-  name: Ronalds Vilcins
-  links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
+# twitter: (original) ronaldsvilcins
+# twitter:
+#   username: (original) ronaldsvilcins
+#   creator: (original) ronaldsvilcins
+#   card: summary
+# social:
+#   name: Nathan Chang
+#   links:
+#     - https://twitter.com/#
+#     - https://www.dribbble.com/#
+#     - https://github.com/#
+#     - https://codepen.io/#
   
 permalink: pretty
 
-disqus:
-  name: "your disqus username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+# disqus:
+#   name: "your disqus username" # required
+#   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 baseurl:             ""
 
@@ -47,7 +47,7 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - disqus-for-jekyll
+  # - disqus-for-jekyll
 
 collections:
   pages:
