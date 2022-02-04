@@ -7,7 +7,6 @@ contains strictly personalized components. Will segment out personal components
 from retro ones at first request.
 
 ### Main Changes
-- new favicon
 - new font [(IBM Plex Sans)](https://github.com/IBM/plex)
 - retro-ish color scheme
 - some font weight/case adjustments
