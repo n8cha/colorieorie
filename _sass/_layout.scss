@@ -130,15 +130,9 @@ header, main {
   line-height: 1.5rem;
 
   ul {
-     list-style: none; /* Remove default bullets */
-  }
-
-  ul li::before {
-     content: "\2022";
-     font-weight: 300;
-     display: inline-block;
-     width: 1em;
-     margin-left: 0.5em;
+     list-style: outside; 
+     margin-left: 2em;
+     list-style-type: circle;
   }
 }
 
