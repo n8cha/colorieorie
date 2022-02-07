@@ -128,6 +128,18 @@ header, main {
   padding: 2rem 3rem;
   font-size: 1.05rem;
   line-height: 1.5rem;
+
+  ul {
+     list-style: none; /* Remove default bullets */
+  }
+
+  ul li::before {
+     content: "\2022";
+     font-weight: 300;
+     display: inline-block;
+     width: 1em;
+     margin-left: 0.5em;
+  }
 }
 
 // .about {
