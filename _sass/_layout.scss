@@ -134,6 +134,14 @@ header, main {
      margin-left: 2em;
      list-style-type: circle;
   }
+
+  li:not(:first-of-type) {
+    margin-top: .45em;
+  }
+
+  li:not(:last-of-type) {
+    margin-bottom: .45em;
+  }
 }
 
 // .about {
